@@ -10,13 +10,13 @@
 <h2>Project Overview</h2>
 This project aimed to analyze road traffic accidents that occurred in the Great Britain during the years 2021 and 2022. The primary focus was on creating an interactive dashboard using Excel to provide insights into the accident data.
 
-<br>Primary Key Performance Indicators (KPIs):</br>
+**<br>Primary Key Performance Indicators (KPIs):</br>**
 - Total Casualties after Accident
 - Total Casualties by Accident Severity
 - Percentage of Total Casualties by Severity
 - Maximum Casualties by Type of Vehicle
 
-Secondary Key Performance Indicators (KPIs):
+**Secondary Key Performance Indicators (KPIs):**
 - Total Casualties by Vehicle Type
 - Monthly Trend Comparison (2021 vs. 2022)
 - Maximum Casualties by Road Type
