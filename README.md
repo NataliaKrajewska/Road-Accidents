@@ -35,12 +35,12 @@ The dataset used in this project is the "Dataset" sheet in "Road_Accidents.xlsx"
 <h2>Project Walkthrough</h2>
 
 **1. Data Cleaning:**
-   - Correction of misspellings
-   - Filling blank cells with "Unknown"
+   - Correction of misspellings.
+   - Filling blank cells with "Unknown".
 
 **2. Data Processing:**
-   - Adding "Month" column and extracting month name from "Accident Date" column using TEXT function
-   - Adding "Year" column and extracting year from "Accident Date" column using TEXT function
+   - Adding "Month" column and extracting month name from "Accident Date" column using TEXT function.
+   - Adding "Year" column and extracting year from "Accident Date" column using TEXT function.
 
 **3. Data Analysis**
 
@@ -50,5 +50,9 @@ The dataset used in this project is the "Dataset" sheet in "Road_Accidents.xlsx"
 ![](Data_Analysis.png)
 
 - Calculating percentage of Fatal, Serious and Slight Casualties.
-- Creating calculated items within a Pivot Table to calculate Total Casualties by Car Type.
-- 
+- Creating calculated items within the Pivot Table to calculate Total Casualties by Car Type (car, bus, van, motorcycle, agricultural vehicle, other) and calculating percentage of Total Casualties by Car.
+- Creating calculated items within the Pivot Table to calculate Total Casualties by Road Surface (dry, wet, snow/ice, unknown).
+- Creating calculated items within the Pivot Table to calculate Total Casualties by Light Conditions (daylight, darkness).
+- Creating timeline and slicer (Rural/Urban Area).
+
+**3. Data Visualization**
