@@ -35,10 +35,14 @@ The dataset used in this project is the "Dataset" sheet in "Road_Accidents.xlsx"
 <h2>Project Walkthrough</h2>
 
 1. Data Cleaning:
-   - Correcting misspellings
+   - Correction of misspellings
    - Filling blank cells with "Unknown"
 
 2. Data Processing:
    - Adding "Month" column and extracting month name from "Accident Date" column using TEXT function
    - Adding "Year" column and extracting year from "Accident Date" column using TEXT function
+
 3. Data Analysis
+    - Creating Pivot Tables in tabs named according to the analyzed KPIs ("Primary KPIs", "Monthly Trend", "Road Type", "Road Surface", "Area and Light" tab). Additionally, all created Pivot Tables were summarized in "Data Analysis" tab.
+
+![]()
