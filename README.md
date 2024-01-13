@@ -47,6 +47,6 @@ The dataset used in this project is the "Dataset" sheet in "Road_Accidents.xlsx"
 - Creating Pivot Tables in tabs named according to the analyzed KPIs ("Primary KPIs", "Monthly Trend", "Road Type", "Road Surface", "Area and Light" tab). Additionally, all created Pivot Tables were summarized in "Data Analysis" tab.
     
 
-![](Data_Analysis.png)
+![]()
 
 - 
