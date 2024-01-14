@@ -3,27 +3,29 @@
 <h2>Table of Contents</h2>
 
 - [Project Overview](#project-overview)
+- [Problem Statement](#problem-statement)
 - [Data Source](#data-source)
 - [Tools](#tools)
 - [Project Walkthrough](#project-walkthrough)
 
 <h2>Project Overview</h2>
-This project aimed to analyze road traffic accidents that occurred in the Great Britain during the years 2021 and 2022. The primary focus was on creating an interactive dashboard using Excel to provide insights into the accident data.
+This project aimed to analyze road traffic accidents that occurred in the Great Britain during the years 2021 and 2022. The primary focus was on creating an interactive dashboard using Excel to provide insights into the accident data. The file consist of 8 tabs: Dataset, KPIs, Monthly Trend, Road Type, Road Surface, Area and Light, Dashboard, Data Analysis.
+
+<h2>Problem Statement</h2>
 
 **<br>Primary Key Performance Indicators (KPIs):</br>**
-- Total Casualties after Accident
-- Total Casualties by Accident Severity
-- Percentage of Total Casualties by Severity
-- Maximum Casualties by Type of Vehicle
+- What is the number of total casualties after accident?
+- What is the number of total casualties by accident severity?
+- What is the percentage of total casualties by severity?
+- What is the maximum casualties by the type of vehicle?
 
 **Secondary Key Performance Indicators (KPIs):**
-- Total Casualties by Vehicle Type
-- Monthly Trend Comparison (2021 vs. 2022)
-- Maximum Casualties by Road Type
-- Distribution of Total Casualties by Road Surface
-- Relation between Casualties, Area, and Light Conditions
+- What is the number of total casualties by vehicle type?
+- What is the monthly trend (2021 vs. 2022)?
+- What is the maximum casualties by road type?
+- What is the distribution of total casualties by road Surface?
+- What is the relation between casualties, area, and light conditions?
 
-The file consist of 8 tabs: Dataset, KPIs, Monthly Trend, Road Type, Road Surface, Area and Light, Dashboard, Data Analysis.
 
 <h2>Data Source</h2>
 The dataset used in this project is the "Dataset" sheet in "Road_Accidents.xlsx" file.
@@ -53,6 +55,15 @@ The dataset used in this project is the "Dataset" sheet in "Road_Accidents.xlsx"
 - Creating calculated items within the Pivot Table to calculate Total Casualties by Car Type (car, bus, van, motorcycle, agricultural vehicle, other) and calculating percentage of Total Casualties by Car.
 - Creating calculated items within the Pivot Table to calculate Total Casualties by Road Surface (dry, wet, snow/ice, unknown).
 - Creating calculated items within the Pivot Table to calculate Total Casualties by Light Conditions (daylight, darkness).
-- Creating timeline and slicer (Rural/Urban Area).
+- Introducing a timeline and a slicer (Rural/Urban Area).
 
 **3. Data Visualization**
+
+- Developing donut charts representing the percentage of fatal, serious, slight casualties and casualties by car.
+- Creating a line chart for monthly trend in 2021 and 2022.
+- Creating a pivot chart (bar chart) representing casualties by road type.
+- Creating a treemap representing the number of casualties by road surface.
+- Creating pivot charts (donut charts) representing the number of casualties by area and light conditions.
+- Dashboard building.
+
+![]()
