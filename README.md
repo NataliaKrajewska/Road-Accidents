@@ -10,7 +10,7 @@
 - [Findings](#findings)
 
 <h2>Project Overview</h2>
-This project aimed to analyze road traffic accidents that occurred in the Great Britain during the years 2021 and 2022. The primary focus was on creating an interactive dashboard using Excel to provide insights into the accident data. The file consist of 8 tabs: Dataset, KPIs, Monthly Trend, Road Type, Road Surface, Area and Light, Dashboard, Data Analysis.
+This project aimed to analyze road traffic accidents that occurred in the Great Britain during the years 2021 and 2022. The primary focus was on creating an interactive dashboard using Excel to provide insights into the accident data. The file consist of 8 tabs: Dataset, KPIs, Monthly Trend, Road Type&Surface, Area&Light, Dashboard, Data Analysis.
 
 <h2>Problem Statement</h2>
 
@@ -29,7 +29,7 @@ This project aimed to analyze road traffic accidents that occurred in the Great 
 
 
 <h2>Data Source</h2>
-The dataset used in this project is the "Dataset" sheet in "Road_Accidents.xlsx" file.
+The dataset used in this project is the "Dataset" sheet in "Road_Accidents.xlsb" file.
 
 <h2>Tools</h2>
 
@@ -47,7 +47,7 @@ The dataset used in this project is the "Dataset" sheet in "Road_Accidents.xlsx"
 
 **3. Data Analysis**
 
-- Creating Pivot Tables in tabs named according to the analyzed KPIs ("Primary KPIs", "Monthly Trend", "Road Type", "Road Surface", "Area and Light" tab). Additionally, all created Pivot Tables were summarized in "Data Analysis" tab.
+- Creating Pivot Tables in tabs named according to the analyzed KPIs ("Primary KPIs", "Monthly Trend", "Road Type&Surface", "Area&Light" tab). Additionally, all created Pivot Tables were summarized in "Data Analysis" tab.
     
 
 ![](Data_Analysis.png)
