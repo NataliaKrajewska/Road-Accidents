@@ -10,7 +10,7 @@
 - [Findings](#findings)
 
 <h2>Project Overview</h2>
-This project aimed to analyze road traffic accidents that occurred in the Great Britain during the years 2021 and 2022. The primary focus was on creating an interactive dashboard using Excel to provide insights into the accident data. The file consist of 8 tabs: Dataset, KPIs, Monthly Trend, Road Type&Surface, Area&Light, Dashboard, Data Analysis.
+This project aimed to analyze road traffic accidents that occurred in Great Britain during years 2021 and 2022. The primary focus was on creating an interactive dashboard using Excel to provide insights into the accident data. The file consist of 8 tabs: Dataset, KPIs, Monthly Trend, Road Type&Surface, Area&Light, Dashboard, Data Analysis.
 
 <h2>Problem Statement</h2>
 
