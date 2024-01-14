@@ -66,9 +66,9 @@ The dataset used in this project is the "Dataset" sheet in "Road_Accidents.xlsx"
 - Creating pivot charts (donut charts) representing the number of casualties by area and light conditions.
 - Dashboard building.
 
-![]()
+![](Dashboard.png)
 
-User Interface:
+**User Interface:**
 
 - Filter Panel was created for the timeline and slicer with hovering effect to display filtered data from 2021, 2022, rural and urban area.
 - Navigation Panel on the left side of the dashboard contains clickable black icons that navigate to "Dashboatd" tab, "Data Analysis" tab, "Reported Road Casualties Great Britain" Wikipedia website and e-mail. Additionally there are two icons at the botton of this panel that navigate to my LinkedIn and Githup profiles.
