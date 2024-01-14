@@ -66,7 +66,7 @@ The dataset used in this project is the "Dataset" sheet in "Road_Accidents.xlsx"
 - Creating pivot charts (donut charts) representing the number of casualties by area and light conditions.
 - Dashboard building.
 
-![](Dashboard.png)
+![]()
 
 **User Interface:**
 
